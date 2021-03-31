@@ -18,7 +18,7 @@ Na pasta /mgt encontra-se um PDF com os wireframes da interface do site, tanto w
 
 Na pasta /src está o codigo-fonte do sistema web. contendo os arquivos: index.html,Formacao-Academica,Portifólio
 
-Além dos .html,
+Existe tambem dentro da pasta /src existem as pastas /img(para imagem) e a /css(para os codigos css)
 
 ## <a id="prototipo"> Protótipo </a>
 
