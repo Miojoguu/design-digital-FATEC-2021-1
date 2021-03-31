@@ -1,0 +1,32 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+i {
+  color: #205894;
+}
+
+.Div_P {
+  color: white;
+  background-color: rgb(41, 35, 68);
+}
+
+.body {
+  background-color: rgb(37, 31, 31);
+}
+.Div_Porcen {
+  background-color: rgb(150, 60, 189);
+}
+
+.div_Calendar {
+  color: #205894;
+}
+.div_current {
+  background-color: #205894;
+}
