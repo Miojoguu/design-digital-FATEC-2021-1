@@ -24,4 +24,4 @@ Existe tambem dentro da pasta /src existem as pastas /img(para imagem) e a /css(
 
 Video demostrando o prototipo:
 
-> https://youtu.be/LqIxhjftiYQ
+> https://youtu.be/RdRQiiF152M
